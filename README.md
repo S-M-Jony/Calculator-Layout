@@ -6,6 +6,7 @@
  iphone SE Portrait
  
 ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-08-21 at 13 04 09](https://github.com/S-M-Jony/Calculator-Layout/assets/102735936/a46c2080-78ae-422b-8cff-17e136ccbd56) 
+
  iphone SE Landscape
 ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-08-21 at 13 03 55](https://github.com/S-M-Jony/Calculator-Layout/assets/102735936/6a7a7931-8864-424c-8e7c-324da0a5ee3a)
 
